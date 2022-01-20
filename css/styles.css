@@ -7,3 +7,6 @@ div {
     text-align: center;
     color:blueviolet
 }
+ul {
+    list-style: inside;
+}
