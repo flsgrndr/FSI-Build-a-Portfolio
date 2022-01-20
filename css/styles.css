@@ -2,11 +2,14 @@ body {
     background-color: rgb(0, 0, 0);
     text-align: center;
 }
+div {
+    background-color: indianred;
+}
 h1 {
-    color:mediumblue
+    color:ivory
 }
 h2 {
-    color:mediumblue
+    color:ivory
 }
 h3 {
     color:ivory
