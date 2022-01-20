@@ -3,20 +3,7 @@ body {
     text-align: center;
 }
 div {
-    background-color: indianred;
-}
-h1 {
-    color:ivory
-}
-h2 {
-    color:ivory
-}
-h3 {
-    color:ivory
-}
-p {
-    color: ivory;
-}
-ul {
-    color: ivory;
+    background-color:black;
+    text-align: center;
+    color:blueviolet
 }
